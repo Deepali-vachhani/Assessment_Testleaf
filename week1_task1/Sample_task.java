@@ -1,0 +1,11 @@
+package week1_task1;
+
+public class Sample_task {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Sample testing project");
+
+	}
+
+}
