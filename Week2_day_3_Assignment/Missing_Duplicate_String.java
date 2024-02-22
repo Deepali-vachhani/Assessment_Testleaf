@@ -1,7 +1,6 @@
 package Week2_day_3_Assignment;
 
 public class Missing_Duplicate_String {
-
 		public static void main(String[] args) {
 	       String text = "We learn Java basics as part of java sessions in java week1";
 			String word[] = text.split(" ");
@@ -20,7 +19,7 @@ public class Missing_Duplicate_String {
 				}
 			}
 			
-			String text1 = String.join(" ",word);
-			System.out.println(text1);
-		}
+		String text1 = String.join(" ",word);
+		System.out.println(text1);
+	}
 }
